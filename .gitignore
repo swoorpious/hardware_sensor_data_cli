@@ -1,3 +1,7 @@
+# clion
+cmake-build-*/
+/.idea/
+
 # Prerequisites
 *.d
 
@@ -39,3 +43,4 @@
 
 # debug information files
 *.dwo
+/cmake-build-release/
